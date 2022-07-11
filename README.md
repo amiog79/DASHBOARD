@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8">
@@ -21,7 +20,7 @@
 h1 {
   box-shadow: 0 16px 20px 0 rgba(0,0,0,0.2);
   transition: 1s;
-  width: 60%;
+  width: 40%;
   height:100%;
   box-sizing:60px;
   float:middle;
