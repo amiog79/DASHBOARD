@@ -21,7 +21,7 @@
 h1 {
   box-shadow: 0 16px 20px 0 rgba(0,0,0,0.2);
   transition: 1s;
-  width: 40%;
+  width: 60%;
   height:100%;
   box-sizing:60px;
   float:middle;
